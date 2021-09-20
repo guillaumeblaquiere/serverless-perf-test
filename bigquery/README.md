@@ -7,6 +7,8 @@ Perform BigQuery compute performance test in a list fo region.
 * The data are queried with a compute intensive (mathematical functions) query
 * Result are summarized at the end of the process
 
+More detail on the analysis in [this article](https://medium.com/google-cloud/bigquery-region-and-performance-41dcf42b8cc)
+
 # Prerequisite
 
 The performance test required the following tools:
